@@ -1,6 +1,6 @@
 {
   "name": "@jshomee/js-learn",
-  "version": "1.0.41",
+  "version": "1.0.42",
   "description": "Description for js-learn",
   "main": "src/index.js",
   "scripts": {
